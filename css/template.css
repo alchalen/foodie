@@ -1,0 +1,38 @@
+.section-header{
+    background-color: white !important;
+    border-bottom: 5px solid #F28705;
+}
+.section-header a{
+    color:#0D0D0D !important;
+    font-weight: 500;
+    font-size: 20px;
+}
+.section-one{
+    color:white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url("../images/banner1.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.barra{
+    background-color:#8a2118;
+    color: white;
+    font-size: 25px;
+}
+.section-two{
+    background-color: #F28705 !important;
+}
+.section-three{
+    background-color: #F28705 !important;
+}
+.form-contact{
+    background-color: #d69a1b !important;
+    background: rgba(194, 194, 194, 0.9);
+}
+.item{
+    color:#342314;
+    font-size: 25px;
+    font-weight: bold;
+}
